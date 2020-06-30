@@ -4,7 +4,18 @@ sleep map naar vscode
 cmd shft p: save project
 
 // zet em in github
-git remote origin
+
+Go to github.
+Log in to your account.
+Click the new repository button in the top-right. You’ll have an option there to initialize the repository with a README file, but I don’t.
+Click the “Create repository” button.
+
+Ga terug naar vscode
+
+git add remote origin git@github.com:BBvT/gittest.git
+git remote add origin https://github.com/BBvT/gittest.git
 git push -u origin master
+
+
 
 
