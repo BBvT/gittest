@@ -1,0 +1,10 @@
+// naar VsCode
+maak map aan
+sleep map naar vscode
+cmd shft p: save project
+
+// zet em in github
+git remote origin
+git push -u origin master
+
+
